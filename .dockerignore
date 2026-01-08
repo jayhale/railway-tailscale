@@ -1,0 +1,6 @@
+assets/
+.dockerignore
+CODEOWNERS
+Dockerfile
+LICENSE
+README.md
