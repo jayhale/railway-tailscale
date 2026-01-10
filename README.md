@@ -5,6 +5,8 @@ Run an exit node.
 Host your own DNS.
 The possibilities are endless.
 
+[![Deploy on Railway](https://railway.com/button.svg)](https://railway.com/deploy/tailscale-1?referralCode=fJi8gp)
+
 ## Configuration
 
 ### Set your Tailscale authentication key
